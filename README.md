@@ -1,2 +1,1 @@
-# fs-healthchecker
-Feature Storage Healthcheck Bot
+# Feature Storage Healthcheck Bot
